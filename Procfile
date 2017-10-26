@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --host=https://basicscience.herokuapp.com/ webapp
+web: bokeh serve --port=$PORT --address=0.0.0.0 --use-xheaders webapp
