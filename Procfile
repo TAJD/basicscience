@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --log-level=debug --use-xheaders webapp
+web: bokeh serve --port=$PORT --log-level=debug --allow-websocket-origin=basicscience.herokuapp.com --use-xheaders webapp
