@@ -11,7 +11,7 @@ numpy==1.13.3
 pandas==0.20.3
 pipenv==8.2.7
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 requests==2.18.4
 scipy==0.19.1
